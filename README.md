@@ -9,8 +9,6 @@ This project is a desktop application for learning and memorizing Hanja (Chinese
 
 ```
 Quiz/
-├── dataset.html        # Raw HTML data for quiz generation
-├── html_parse.py       # Extracts Hanja and meanings from HTML to JSON
 ├── quiz_data.json      # Quiz questions (generated)
 ├── score_data.json     # Stores only wrong answers (auto-generated)
 ├── quiz.py             # FastAPI server to serve random quiz questions
