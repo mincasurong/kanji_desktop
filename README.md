@@ -63,16 +63,6 @@ This launches the quiz window. The GUI:
 
 ---
 
-## 🔁 To Regenerate Quiz Data
-
-If you updated `dataset.html`, you can regenerate `quiz_data.json` by running:
-
-```bash
-python html_parse.py
-```
-
----
-
 ## 💡 Features
 
 - Randomized multiple-choice quizzes
