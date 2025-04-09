@@ -4,6 +4,7 @@
 This project is a desktop application for learning and memorizing Hanja (Chinese characters used in Korean). It includes a Python-based GUI using Tkinter and a FastAPI backend to serve quiz questions.
 
 ---
+![image](https://github.com/user-attachments/assets/fcb10343-1725-4e0f-a764-e2b917ab550b)
 
 ## 📁 Project Structure
 
